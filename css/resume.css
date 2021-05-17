@@ -43,7 +43,7 @@ h3 {
 }
 
 p.lead {
-  font-size: 1.15rem;
+  font-size: 1.3rem;
   font-weight: 400;
 }
 
@@ -186,4 +186,13 @@ a:hover,
 a:focus,
 a:active {
   color: #824027;
+}
+
+.what-i-do {
+  list-style: none;
+}
+
+.what-i-do li {
+  padding: 10px 0;
+  font-size: 20px;
 }
